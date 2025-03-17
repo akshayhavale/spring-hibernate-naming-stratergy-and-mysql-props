@@ -1,0 +1,1 @@
+# spring-hibernate-naming-stratergy-and-mysql-props
